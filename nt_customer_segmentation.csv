@@ -1,0 +1,794 @@
+Customer ID,Purchase Frequency,Predicted Segment
+AA-10315,11,Loyal Customers
+KB-16405,9,Loyal Customers
+KB-16240,10,Loyal Customers
+KA-16525,11,Loyal Customers
+JW-15955,11,Loyal Customers
+JS-15880,9,Loyal Customers
+JP-16135,13,Loyal Customers
+JP-15520,16,Loyal Customers
+JP-15460,15,Loyal Customers
+JM-15655,12,Loyal Customers
+JM-15580,7,Loyal Customers
+JM-15535,10,Loyal Customers
+JM-15265,13,Loyal Customers
+JL-15505,17,Loyal Customers
+JK-15640,12,Loyal Customers
+JK-15625,12,Loyal Customers
+JK-15325,4,Loyal Customers
+JJ-15760,3,Loyal Customers
+JJ-15445,6,Loyal Customers
+JH-15910,9,Loyal Customers
+JH-15820,8,Loyal Customers
+JG-15805,9,Loyal Customers
+JF-15490,15,Loyal Customers
+JF-15415,14,Loyal Customers
+KC-16255,10,Loyal Customers
+KC-16675,7,Loyal Customers
+KD-16345,10,Loyal Customers
+KD-16615,13,Loyal Customers
+MG-17650,14,Loyal Customers
+MF-18250,12,Loyal Customers
+ME-18010,6,Loyal Customers
+MC-18130,11,Loyal Customers
+MC-17845,14,Loyal Customers
+MC-17425,10,Loyal Customers
+MC-17275,13,Loyal Customers
+MA-17995,12,Loyal Customers
+LW-17125,5,Loyal Customers
+LW-16990,11,Loyal Customers
+LT-16765,3,Loyal Customers
+JF-15355,16,Loyal Customers
+LS-17245,12,Loyal Customers
+LP-17080,9,Loyal Customers
+LM-17065,7,Loyal Customers
+LL-16840,12,Loyal Customers
+LH-17155,19,Loyal Customers
+LD-17005,7,Loyal Customers
+LC-16930,14,Loyal Customers
+KW-16570,5,Loyal Customers
+KW-16435,10,Loyal Customers
+KT-16480,13,Loyal Customers
+KM-16660,9,Loyal Customers
+KH-16360,14,Loyal Customers
+LS-17230,6,Loyal Customers
+MG-17680,10,Loyal Customers
+JF-15295,14,Loyal Customers
+JD-16060,6,Loyal Customers
+ES-14020,8,Loyal Customers
+EN-13780,9,Loyal Customers
+EM-14200,4,Loyal Customers
+EM-14095,10,Loyal Customers
+EM-13825,16,Loyal Customers
+EM-13810,7,Loyal Customers
+EL-13735,2,Loyal Customers
+EK-13795,4,Loyal Customers
+EJ-14155,8,Loyal Customers
+EH-14005,11,Loyal Customers
+EH-13990,8,Loyal Customers
+EC-14050,7,Loyal Customers
+EB-13840,8,Loyal Customers
+DW-13540,9,Loyal Customers
+DW-13480,11,Loyal Customers
+DS-13030,19,Loyal Customers
+DP-13165,4,Loyal Customers
+DP-13105,14,Loyal Customers
+DO-13645,11,Loyal Customers
+DO-13435,13,Loyal Customers
+DN-13690,11,Loyal Customers
+DM-13525,10,Loyal Customers
+DM-13345,13,Loyal Customers
+FC-14245,14,Loyal Customers
+FC-14335,10,Loyal Customers
+FG-14260,11,Loyal Customers
+FH-14350,14,Loyal Customers
+JC-16105,9,Loyal Customers
+JC-15775,16,Loyal Customers
+JC-15385,4,Loyal Customers
+JB-16000,7,Loyal Customers
+IM-15055,4,Loyal Customers
+IG-15085,7,Loyal Customers
+HR-14770,13,Loyal Customers
+HM-14980,7,Loyal Customers
+HJ-14875,6,Loyal Customers
+HH-15010,6,Loyal Customers
+HG-15025,11,Loyal Customers
+JE-16165,7,Loyal Customers
+HE-14800,11,Loyal Customers
+GZ-14470,14,Loyal Customers
+GR-14560,5,Loyal Customers
+GP-14740,5,Loyal Customers
+GM-14695,11,Loyal Customers
+GM-14500,13,Loyal Customers
+GM-14440,11,Loyal Customers
+GD-14590,6,Loyal Customers
+GA-14515,14,Loyal Customers
+FW-14395,3,Loyal Customers
+FP-14320,14,Loyal Customers
+FM-14215,15,Loyal Customers
+GZ-14545,5,Loyal Customers
+MG-17890,13,Loyal Customers
+MH-17440,9,Loyal Customers
+MH-17455,11,Loyal Customers
+SS-20590,9,Loyal Customers
+SS-20515,6,Loyal Customers
+SR-20740,12,Loyal Customers
+SL-20155,9,Loyal Customers
+SJ-20500,7,Loyal Customers
+SG-20605,13,Loyal Customers
+SG-20470,14,Loyal Customers
+SG-20080,11,Loyal Customers
+SF-20065,9,Loyal Customers
+SC-20800,5,Loyal Customers
+SC-20695,14,Loyal Customers
+SC-20680,8,Loyal Customers
+SC-20230,11,Loyal Customers
+SB-20185,12,Loyal Customers
+RW-19690,15,Loyal Customers
+RW-19630,16,Loyal Customers
+RS-19870,3,Loyal Customers
+RS-19420,9,Loyal Customers
+RR-19525,10,Loyal Customers
+RP-19855,15,Loyal Customers
+RM-19750,2,Loyal Customers
+RM-19675,11,Loyal Customers
+RM-19375,9,Loyal Customers
+SU-20665,18,Loyal Customers
+SW-20275,7,Loyal Customers
+SW-20455,9,Loyal Customers
+SW-20755,8,Loyal Customers
+YC-21895,8,Loyal Customers
+VP-21730,5,Loyal Customers
+VM-21835,8,Loyal Customers
+VM-21685,12,Loyal Customers
+VG-21805,6,Loyal Customers
+VG-21790,8,Loyal Customers
+VF-21715,11,Loyal Customers
+VB-21745,10,Loyal Customers
+TZ-21580,9,Loyal Customers
+TW-21025,12,Loyal Customers
+TT-21460,14,Loyal Customers
+RK-19300,8,Loyal Customers
+TT-21265,3,Loyal Customers
+TR-21325,7,Loyal Customers
+TM-21490,4,Loyal Customers
+TH-21550,13,Loyal Customers
+TG-21640,10,Loyal Customers
+TC-21535,10,Loyal Customers
+TC-21145,4,Loyal Customers
+TB-21625,15,Loyal Customers
+TB-21355,13,Loyal Customers
+TB-21280,11,Loyal Customers
+TB-21190,4,Loyal Customers
+TB-21175,11,Loyal Customers
+TS-21430,7,Loyal Customers
+RH-19600,11,Loyal Customers
+RH-19510,12,Loyal Customers
+RH-19495,8,Loyal Customers
+NP-18685,7,Loyal Customers
+NP-18670,10,Loyal Customers
+NL-18310,10,Loyal Customers
+NK-18490,11,Loyal Customers
+NH-18610,11,Loyal Customers
+NG-18430,9,Loyal Customers
+NG-18355,16,Loyal Customers
+NF-18595,12,Loyal Customers
+ND-18460,8,Loyal Customers
+NC-18340,17,Loyal Customers
+NB-18580,2,Loyal Customers
+PB-18805,10,Loyal Customers
+MZ-17335,6,Loyal Customers
+MW-18220,14,Loyal Customers
+MV-18190,11,Loyal Customers
+MT-17815,10,Loyal Customers
+MS-17530,7,Loyal Customers
+MM-18280,12,Loyal Customers
+MM-17260,6,Loyal Customers
+ML-18265,3,Loyal Customers
+ML-17755,13,Loyal Customers
+MK-18160,11,Loyal Customers
+MH-18025,10,Loyal Customers
+MH-17785,11,Loyal Customers
+MW-18235,3,Loyal Customers
+DL-13495,12,Loyal Customers
+PB-19105,5,Loyal Customers
+PB-19210,2,Loyal Customers
+RF-19840,11,Loyal Customers
+RF-19735,14,Loyal Customers
+RE-19450,9,Loyal Customers
+RE-19405,1,Loyal Customers
+RD-19660,5,Loyal Customers
+RC-19825,10,Loyal Customers
+RB-19705,7,Loyal Customers
+RB-19645,7,Loyal Customers
+RB-19570,9,Loyal Customers
+RA-19885,15,Loyal Customers
+PW-19240,12,Loyal Customers
+PB-19150,11,Loyal Customers
+PW-19030,13,Loyal Customers
+PS-18970,13,Loyal Customers
+PR-18880,12,Loyal Customers
+PO-18865,13,Loyal Customers
+PN-18775,13,Loyal Customers
+PM-19135,7,Loyal Customers
+PM-18940,4,Loyal Customers
+PJ-19015,10,Loyal Customers
+PJ-18835,13,Loyal Customers
+PG-18895,17,Loyal Customers
+PF-19225,10,Loyal Customers
+PF-19165,10,Loyal Customers
+PV-18985,13,Loyal Customers
+DL-13330,8,Loyal Customers
+JO-15145,13,Loyal Customers
+DL-12925,14,Loyal Customers
+CA-12310,11,Loyal Customers
+CA-11965,10,Loyal Customers
+BW-11200,10,Loyal Customers
+BW-11065,3,Loyal Customers
+BV-11245,14,Loyal Customers
+BT-11530,10,Loyal Customers
+BT-11485,3,Loyal Customers
+BT-11440,7,Loyal Customers
+BT-11395,10,Loyal Customers
+BS-11800,8,Loyal Customers
+BP-11230,6,Loyal Customers
+BP-11155,11,Loyal Customers
+BP-11050,7,Loyal Customers
+BO-11425,2,Loyal Customers
+BN-11470,6,Loyal Customers
+BG-11740,7,Loyal Customers
+BG-11695,8,Loyal Customers
+CC-12145,11,Loyal Customers
+BF-11275,4,Loyal Customers
+CC-12475,13,Loyal Customers
+CD-11920,9,Loyal Customers
+CS-12460,6,Loyal Customers
+CS-12130,7,Loyal Customers
+CR-12820,7,Loyal Customers
+CR-12625,4,Loyal Customers
+CR-12580,6,Loyal Customers
+CM-12655,10,Loyal Customers
+CM-12445,9,Loyal Customers
+CM-12235,8,Loyal Customers
+CM-12190,7,Loyal Customers
+CM-12115,7,Loyal Customers
+CM-11815,10,Loyal Customers
+CL-11890,7,Loyal Customers
+CJ-11875,1,Loyal Customers
+CH-12070,4,Loyal Customers
+CG-12520,5,Loyal Customers
+CD-12790,15,Loyal Customers
+CD-12280,13,Loyal Customers
+CC-12550,4,Loyal Customers
+CV-12295,13,Loyal Customers
+BF-11215,8,Loyal Customers
+BF-10975,13,Loyal Customers
+AJ-10945,10,Loyal Customers
+AH-10585,5,Loyal Customers
+AH-10465,8,Loyal Customers
+AH-10210,13,Loyal Customers
+AH-10030,11,Loyal Customers
+AG-10300,5,Loyal Customers
+AG-10270,14,Loyal Customers
+AD-10180,12,Loyal Customers
+AC-10660,6,Loyal Customers
+AC-10615,18,Loyal Customers
+AC-10450,9,Loyal Customers
+AB-10255,14,Loyal Customers
+AB-10165,14,Loyal Customers
+AB-10150,12,Loyal Customers
+AB-10015,6,Loyal Customers
+AA-10480,12,Loyal Customers
+AA-10375,15,Loyal Customers
+AJ-10960,5,Loyal Customers
+BF-11080,6,Loyal Customers
+AM-10360,12,Loyal Customers
+AR-10405,7,Loyal Customers
+BE-11455,13,Loyal Customers
+BE-11410,5,Loyal Customers
+BE-11335,9,Loyal Customers
+BD-11770,10,Loyal Customers
+BD-11725,10,Loyal Customers
+BD-11635,5,Loyal Customers
+BD-11620,8,Loyal Customers
+BD-11560,4,Loyal Customers
+BD-11500,10,Loyal Customers
+BC-11125,18,Loyal Customers
+AZ-10750,12,Loyal Customers
+AY-10555,10,Loyal Customers
+AS-10225,13,Loyal Customers
+AS-10135,3,Loyal Customers
+AR-10825,13,Loyal Customers
+AR-10570,2,Loyal Customers
+AR-10540,9,Loyal Customers
+AO-10810,1,Loyal Customers
+CW-11905,11,Loyal Customers
+BT-11305,9,Loyal Customers
+ZD-21925,9,Loyal Customers
+DB-13060,13,Loyal Customers
+DB-13360,6,Loyal Customers
+DB-13405,14,Loyal Customers
+DB-13615,11,Loyal Customers
+DJ-13630,8,Loyal Customers
+DB-12910,12,Loyal Customers
+DA-13450,8,Loyal Customers
+DK-12985,8,Loyal Customers
+DC-13285,7,Loyal Customers
+DE-13255,9,Loyal Customers
+DK-13090,13,Loyal Customers
+DK-13150,5,Loyal Customers
+DG-13300,8,Loyal Customers
+DJ-13510,13,Loyal Customers
+DJ-13420,5,Loyal Customers
+DH-13675,11,Loyal Customers
+MA-17560,34,Impulse Customers
+ES-14080,20,Impulse Customers
+BW-11110,17,Impulse Customers
+BD-11320,19,Impulse Customers
+SJ-20125,24,Impulse Customers
+SH-19975,29,Impulse Customers
+BT-11680,20,Impulse Customers
+AH-10690,23,Impulse Customers
+AI-10855,18,Impulse Customers
+ME-17320,22,Impulse Customers
+AJ-10780,15,Impulse Customers
+EP-13915,31,Impulse Customers
+SF-20200,15,Impulse Customers
+RB-19360,18,Impulse Customers
+EM-14140,21,Impulse Customers
+AJ-10795,21,Impulse Customers
+SE-20110,19,Impulse Customers
+SD-20485,21,Impulse Customers
+DV-13465,15,Impulse Customers
+SC-20725,26,Impulse Customers
+PS-19045,13,Impulse Customers
+MH-18115,22,Impulse Customers
+MJ-17740,15,Impulse Customers
+SC-20380,20,Impulse Customers
+ML-17395,20,Impulse Customers
+SC-20260,18,Impulse Customers
+LW-17215,15,Impulse Customers
+DS-13180,20,Impulse Customers
+RB-19795,18,Impulse Customers
+CA-12265,17,Impulse Customers
+DB-13210,21,Impulse Customers
+CC-12430,19,Impulse Customers
+CC-12370,11,Impulse Customers
+LA-16780,26,Impulse Customers
+AH-10120,16,Impulse Customers
+LB-16795,24,Impulse Customers
+LC-16870,30,Impulse Customers
+LC-16885,23,Impulse Customers
+CC-12220,22,Impulse Customers
+LC-17140,19,Impulse Customers
+SS-20140,21,Impulse Customers
+DB-13270,13,Impulse Customers
+BS-11365,9,Impulse Customers
+DK-12835,27,Impulse Customers
+SP-20860,24,Impulse Customers
+SP-20650,15,Impulse Customers
+CB-12535,19,Impulse Customers
+SP-20620,24,Impulse Customers
+CB-12025,26,Impulse Customers
+LR-16915,16,Impulse Customers
+SN-20710,19,Impulse Customers
+LS-16975,22,Impulse Customers
+SM-20950,22,Impulse Customers
+RA-19285,17,Impulse Customers
+CA-12775,17,Impulse Customers
+QJ-19255,13,Impulse Customers
+BB-11545,20,Impulse Customers
+SM-20320,15,Impulse Customers
+SC-20095,22,Impulse Customers
+RB-19435,16,Impulse Customers
+BM-11140,16,Impulse Customers
+BH-11710,24,Impulse Customers
+RB-19465,23,Impulse Customers
+EB-13750,20,Impulse Customers
+NM-18445,14,Impulse Customers
+PO-19180,18,Impulse Customers
+NP-18325,21,Impulse Customers
+NP-18700,13,Impulse Customers
+RF-19345,16,Impulse Customers
+NS-18640,26,Impulse Customers
+PO-18850,22,Impulse Customers
+NW-18400,22,Impulse Customers
+AS-10090,25,Impulse Customers
+NZ-18565,20,Impulse Customers
+RD-19900,21,Impulse Customers
+BF-11170,27,Impulse Customers
+EH-14125,18,Impulse Customers
+BF-11020,21,Impulse Customers
+RD-19720,20,Impulse Customers
+PF-19120,19,Impulse Customers
+RD-19585,19,Impulse Customers
+PG-18820,26,Impulse Customers
+DH-13075,23,Impulse Customers
+RD-19480,15,Impulse Customers
+EH-13765,32,Impulse Customers
+PK-19075,25,Impulse Customers
+AT-10735,16,Impulse Customers
+AM-10705,22,Impulse Customers
+RL-19615,24,Impulse Customers
+ND-18370,18,Impulse Customers
+SC-20050,15,Impulse Customers
+MM-17920,16,Impulse Customers
+BP-11185,18,Impulse Customers
+PS-18760,21,Impulse Customers
+SB-20290,17,Impulse Customers
+KN-16705,15,Impulse Customers
+SA-20830,21,Impulse Customers
+MP-17470,14,Impulse Customers
+MP-17965,20,Impulse Customers
+MP-18175,19,Impulse Customers
+AP-10720,19,Impulse Customers
+MS-17365,24,Impulse Customers
+BM-11650,29,Impulse Customers
+AP-10915,31,Impulse Customers
+RW-19540,23,Impulse Customers
+MS-17770,19,Impulse Customers
+RS-19765,14,Impulse Customers
+BP-11095,20,Impulse Customers
+PP-18955,34,Impulse Customers
+RP-19390,25,Impulse Customers
+MY-18295,21,Impulse Customers
+BN-11515,17,Impulse Customers
+NB-18655,17,Impulse Customers
+Dp-13240,29,Impulse Customers
+EA-14035,25,Impulse Customers
+NC-18535,15,Impulse Customers
+BD-11605,20,Impulse Customers
+AH-10075,20,Impulse Customers
+LH-16900,15,Impulse Customers
+KM-16720,28,Impulse Customers
+GG-14650,24,Impulse Customers
+JD-16150,17,Impulse Customers
+JE-15610,20,Impulse Customers
+JE-15715,22,Impulse Customers
+JE-15745,23,Impulse Customers
+TS-21205,19,Impulse Customers
+JF-15190,19,Impulse Customers
+CP-12085,14,Impulse Customers
+TS-21160,17,Impulse Customers
+GB-14575,16,Impulse Customers
+JF-15565,16,Impulse Customers
+JG-15160,18,Impulse Customers
+CM-12385,10,Impulse Customers
+TP-21130,16,Impulse Customers
+GA-14725,22,Impulse Customers
+JH-15985,14,Impulse Customers
+SV-20365,32,Impulse Customers
+DK-12895,15,Impulse Customers
+JK-15205,13,Impulse Customers
+TM-21010,19,Impulse Customers
+JK-15370,17,Impulse Customers
+JK-15730,20,Impulse Customers
+CL-12565,28,Impulse Customers
+JL-15835,34,Impulse Customers
+JM-15250,19,Impulse Customers
+DP-13390,14,Impulse Customers
+CK-12595,25,Impulse Customers
+TS-21370,15,Impulse Customers
+TC-21295,16,Impulse Customers
+JD-15895,32,Impulse Customers
+JA-15970,24,Impulse Customers
+YS-21880,12,Impulse Customers
+CV-12805,19,Impulse Customers
+GK-14620,14,Impulse Customers
+CT-11995,18,Impulse Customers
+GT-14710,29,Impulse Customers
+XP-21865,28,Impulse Customers
+WB-21850,37,Impulse Customers
+VW-21775,18,Impulse Customers
+HA-14920,18,Impulse Customers
+DM-13015,20,Impulse Customers
+HF-14995,19,Impulse Customers
+AA-10645,18,Impulse Customers
+AB-10060,18,Impulse Customers
+CS-12355,22,Impulse Customers
+CS-12250,28,Impulse Customers
+HK-14890,15,Impulse Customers
+HL-15040,11,Impulse Customers
+HM-14860,20,Impulse Customers
+AB-10105,20,Impulse Customers
+DK-13375,23,Impulse Customers
+VD-21670,16,Impulse Customers
+HR-14830,14,Impulse Customers
+HW-14935,20,Impulse Customers
+DK-13225,19,Impulse Customers
+CS-11950,22,Impulse Customers
+IL-15100,14,Impulse Customers
+IM-15070,21,Impulse Customers
+TT-21070,14,Impulse Customers
+JM-15865,13,Impulse Customers
+RA-19915,22,Impulse Customers
+KF-16285,18,Impulse Customers
+SV-20785,25,Impulse Customers
+TB-21400,17,Impulse Customers
+KH-16330,18,Impulse Customers
+AG-10495,21,Impulse Customers
+KD-16495,28,Impulse Customers
+KD-16270,16,Impulse Customers
+DR-12940,13,Impulse Customers
+JW-15220,14,Impulse Customers
+AG-10900,21,Impulse Customers
+FM-14290,20,Impulse Customers
+TB-21055,18,Impulse Customers
+TA-21385,10,Impulse Customers
+SZ-20035,20,Impulse Customers
+FH-14365,13,Impulse Customers
+JM-16195,19,Impulse Customers
+KH-16510,23,Impulse Customers
+KH-16630,17,Impulse Customers
+KB-16585,23,Impulse Customers
+KM-16375,20,Impulse Customers
+FH-14275,21,Impulse Customers
+TC-20980,12,Impulse Customers
+CJ-12010,20,Impulse Customers
+DR-12880,24,Impulse Customers
+KL-16645,29,Impulse Customers
+ZC-21910,31,Impulse Customers
+KM-16225,19,Impulse Customers
+CK-12205,32,Impulse Customers
+KL-16555,22,Impulse Customers
+KH-16690,15,Impulse Customers
+RB-19330,6,Lookers/Surfers
+SP-20545,10,Lookers/Surfers
+AS-10240,13,Lookers/Surfers
+SO-20335,15,Lookers/Surfers
+RA-19945,9,Lookers/Surfers
+AC-10420,5,Lookers/Surfers
+AS-10630,12,Lookers/Surfers
+AT-10435,9,Lookers/Surfers
+SS-20875,15,Lookers/Surfers
+AG-10765,5,Lookers/Surfers
+SW-20350,6,Lookers/Surfers
+ST-20530,12,Lookers/Surfers
+AB-10600,8,Lookers/Surfers
+AS-10285,8,Lookers/Surfers
+BB-10990,8,Lookers/Surfers
+RD-19810,16,Lookers/Surfers
+VT-21700,9,Lookers/Surfers
+VP-21760,14,Lookers/Surfers
+EB-13870,11,Lookers/Surfers
+AH-10195,8,Lookers/Surfers
+AW-10930,16,Lookers/Surfers
+DL-12865,14,Lookers/Surfers
+RC-19960,11,Lookers/Surfers
+SS-20410,12,Lookers/Surfers
+TT-21220,15,Lookers/Surfers
+SV-20815,6,Lookers/Surfers
+SV-20935,13,Lookers/Surfers
+SR-20425,9,Lookers/Surfers
+AW-10840,8,Lookers/Surfers
+SP-20920,14,Lookers/Surfers
+DM-12955,9,Lookers/Surfers
+SW-20245,10,Lookers/Surfers
+VS-21820,8,Lookers/Surfers
+RD-19930,10,Lookers/Surfers
+SF-20965,17,Lookers/Surfers
+SN-20560,15,Lookers/Surfers
+TS-21610,11,Lookers/Surfers
+TB-21520,20,Lookers/Surfers
+SH-20635,2,Lookers/Surfers
+SH-20395,15,Lookers/Surfers
+SC-20020,17,Lookers/Surfers
+TB-21595,7,Lookers/Surfers
+SG-20890,5,Lookers/Surfers
+AF-10870,16,Lookers/Surfers
+AG-10330,9,Lookers/Surfers
+TH-21235,13,Lookers/Surfers
+TH-21115,9,Lookers/Surfers
+TH-21100,7,Lookers/Surfers
+SC-20305,12,Lookers/Surfers
+AF-10885,7,Lookers/Surfers
+TG-21310,9,Lookers/Surfers
+SC-20440,10,Lookers/Surfers
+SC-20575,7,Lookers/Surfers
+DW-13195,9,Lookers/Surfers
+TD-20995,16,Lookers/Surfers
+SC-20770,21,Lookers/Surfers
+SC-20845,4,Lookers/Surfers
+TC-21475,11,Lookers/Surfers
+SB-20170,7,Lookers/Surfers
+SJ-20215,10,Lookers/Surfers
+AG-10390,8,Lookers/Surfers
+TP-21415,10,Lookers/Surfers
+RH-19555,3,Lookers/Surfers
+TS-21505,14,Lookers/Surfers
+EB-13705,12,Lookers/Surfers
+DP-13000,17,Lookers/Surfers
+AS-10045,10,Lookers/Surfers
+TS-21340,12,Lookers/Surfers
+RO-19780,12,Lookers/Surfers
+RP-19270,12,Lookers/Surfers
+SM-20905,6,Lookers/Surfers
+SM-20005,6,Lookers/Surfers
+TS-21655,14,Lookers/Surfers
+Dl-13600,6,Lookers/Surfers
+RR-19315,4,Lookers/Surfers
+AR-10510,7,Lookers/Surfers
+DW-13585,10,Lookers/Surfers
+AG-10525,9,Lookers/Surfers
+TS-21085,2,Lookers/Surfers
+AR-10345,5,Lookers/Surfers
+TB-21250,19,Lookers/Surfers
+SK-19990,5,Lookers/Surfers
+TP-21565,10,Lookers/Surfers
+DV-13045,9,Lookers/Surfers
+AG-10675,15,Lookers/Surfers
+TN-21040,12,Lookers/Surfers
+CY-12745,11,Lookers/Surfers
+EB-13975,6,Lookers/Surfers
+CG-12040,9,Lookers/Surfers
+JW-16075,7,Lookers/Surfers
+JS-16030,18,Lookers/Surfers
+JS-15940,8,Lookers/Surfers
+FM-14380,14,Lookers/Surfers
+JS-15685,11,Lookers/Surfers
+JS-15595,8,Lookers/Surfers
+JR-16210,10,Lookers/Surfers
+JR-15700,1,Lookers/Surfers
+JR-15670,3,Lookers/Surfers
+FO-14305,15,Lookers/Surfers
+JO-15550,11,Lookers/Surfers
+JO-15280,11,Lookers/Surfers
+CK-12325,12,Lookers/Surfers
+CK-12760,14,Lookers/Surfers
+DB-12970,14,Lookers/Surfers
+JL-15850,11,Lookers/Surfers
+KB-16315,22,Lookers/Surfers
+KB-16600,9,Lookers/Surfers
+CD-11980,6,Lookers/Surfers
+KC-16540,5,Lookers/Surfers
+CC-12100,13,Lookers/Surfers
+LH-17020,6,Lookers/Surfers
+LH-16750,3,Lookers/Surfers
+LF-17185,16,Lookers/Surfers
+LE-16810,9,Lookers/Surfers
+LD-16855,1,Lookers/Surfers
+LC-17050,9,Lookers/Surfers
+LC-16960,7,Lookers/Surfers
+JL-15235,10,Lookers/Surfers
+LB-16735,3,Lookers/Surfers
+KS-16300,4,Lookers/Surfers
+KN-16450,8,Lookers/Surfers
+KN-16390,17,Lookers/Surfers
+CC-12610,12,Lookers/Surfers
+KE-16420,15,Lookers/Surfers
+CC-12670,14,Lookers/Surfers
+CC-12685,12,Lookers/Surfers
+DB-13120,14,Lookers/Surfers
+KT-16465,14,Lookers/Surfers
+JL-15175,7,Lookers/Surfers
+JL-15130,12,Lookers/Surfers
+JK-16120,17,Lookers/Surfers
+JB-15400,16,Lookers/Surfers
+CS-11860,7,Lookers/Surfers
+HZ-14950,6,Lookers/Surfers
+GH-14485,3,Lookers/Surfers
+HP-14815,10,Lookers/Surfers
+CS-12175,8,Lookers/Surfers
+CS-12400,14,Lookers/Surfers
+HG-14965,17,Lookers/Surfers
+JB-15925,8,Lookers/Surfers
+HG-14845,10,Lookers/Surfers
+HD-14785,7,Lookers/Surfers
+HA-14905,10,Lookers/Surfers
+CS-12490,9,Lookers/Surfers
+CS-12505,9,Lookers/Surfers
+GW-14605,9,Lookers/Surfers
+GT-14755,7,Lookers/Surfers
+GT-14635,6,Lookers/Surfers
+GM-14680,11,Lookers/Surfers
+GH-14665,3,Lookers/Surfers
+CB-12415,12,Lookers/Surfers
+CS-11845,8,Lookers/Surfers
+JC-15340,4,Lookers/Surfers
+JK-16090,9,Lookers/Surfers
+CL-12700,8,Lookers/Surfers
+CM-11935,4,Lookers/Surfers
+CM-12160,7,Lookers/Surfers
+JH-16180,5,Lookers/Surfers
+GB-14530,20,Lookers/Surfers
+JH-15430,7,Lookers/Surfers
+JG-15310,11,Lookers/Surfers
+JB-16045,9,Lookers/Surfers
+JG-15115,7,Lookers/Surfers
+CM-12715,13,Lookers/Surfers
+CP-12340,15,Lookers/Surfers
+JE-15475,13,Lookers/Surfers
+JD-16015,11,Lookers/Surfers
+JD-15790,7,Lookers/Surfers
+GH-14410,17,Lookers/Surfers
+CR-12730,6,Lookers/Surfers
+GH-14425,10,Lookers/Surfers
+Co-12640,8,Lookers/Surfers
+EB-13930,7,Lookers/Surfers
+LO-17170,9,Lookers/Surfers
+LR-17035,12,Lookers/Surfers
+DF-13135,6,Lookers/Surfers
+BK-11260,16,Lookers/Surfers
+BM-11575,10,Lookers/Surfers
+NF-18475,4,Lookers/Surfers
+NF-18385,14,Lookers/Surfers
+NC-18625,9,Lookers/Surfers
+NC-18415,14,Lookers/Surfers
+BM-11785,14,Lookers/Surfers
+DD-13570,9,Lookers/Surfers
+MZ-17515,10,Lookers/Surfers
+GM-14455,12,Lookers/Surfers
+BO-11350,12,Lookers/Surfers
+DC-12850,18,Lookers/Surfers
+MV-17485,15,Lookers/Surfers
+MT-18070,11,Lookers/Surfers
+MS-17980,11,Lookers/Surfers
+MS-17830,5,Lookers/Surfers
+NM-18520,15,Lookers/Surfers
+BG-11035,12,Lookers/Surfers
+EJ-13720,8,Lookers/Surfers
+NR-18550,13,Lookers/Surfers
+PT-19090,7,Lookers/Surfers
+EB-14110,11,Lookers/Surfers
+PO-19195,10,Lookers/Surfers
+EB-14170,7,Lookers/Surfers
+ED-13885,14,Lookers/Surfers
+EG-13900,9,Lookers/Surfers
+PL-18925,8,Lookers/Surfers
+PK-18910,3,Lookers/Surfers
+MS-17710,15,Lookers/Surfers
+EH-13945,17,Lookers/Surfers
+BF-11005,10,Lookers/Surfers
+PC-19000,3,Lookers/Surfers
+PC-18745,5,Lookers/Surfers
+EH-14185,8,Lookers/Surfers
+PA-19060,7,Lookers/Surfers
+OT-18730,10,Lookers/Surfers
+ON-18715,15,Lookers/Surfers
+NS-18505,15,Lookers/Surfers
+PH-18790,2,Lookers/Surfers
+EM-13960,6,Lookers/Surfers
+MR-17545,6,Lookers/Surfers
+MO-17950,4,Lookers/Surfers
+MF-17665,8,Lookers/Surfers
+ME-17725,13,Lookers/Surfers
+MD-17860,8,Lookers/Surfers
+MD-17350,17,Lookers/Surfers
+MC-18100,19,Lookers/Surfers
+ER-13855,5,Lookers/Surfers
+MC-17635,8,Lookers/Surfers
+MC-17605,18,Lookers/Surfers
+DB-13555,14,Lookers/Surfers
+MC-17590,17,Lookers/Surfers
+MB-18085,10,Lookers/Surfers
+MB-17305,19,Lookers/Surfers
+FA-14230,17,Lookers/Surfers
+CA-12055,10,Lookers/Surfers
+LW-16825,15,Lookers/Surfers
+LT-17110,14,Lookers/Surfers
+LS-17200,14,Lookers/Surfers
+LS-16945,14,Lookers/Surfers
+MC-17575,11,Lookers/Surfers
+LP-17095,15,Lookers/Surfers
+MG-17695,7,Lookers/Surfers
+DL-13315,17,Lookers/Surfers
+MO-17800,11,Lookers/Surfers
+MO-17500,5,Lookers/Surfers
+MN-17935,10,Lookers/Surfers
+MM-18055,19,Lookers/Surfers
+EM-14065,6,Lookers/Surfers
+BP-11290,16,Lookers/Surfers
+ML-18040,4,Lookers/Surfers
+ML-17410,15,Lookers/Surfers
+MG-17875,7,Lookers/Surfers
+BS-11380,13,Lookers/Surfers
+BS-11590,10,Lookers/Surfers
+BS-11665,11,Lookers/Surfers
+MH-17620,6,Lookers/Surfers
+BS-11755,14,Lookers/Surfers
+DB-13660,10,Lookers/Surfers
+MH-17290,13,Lookers/Surfers
+MG-18205,2,Lookers/Surfers
+MG-18145,8,Lookers/Surfers
+MK-17905,17,Lookers/Surfers
+MY-17380,13,Lookers/Surfers

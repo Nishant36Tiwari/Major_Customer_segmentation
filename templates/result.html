@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Prediction Results</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+      body {
+        padding: 20px;
+        background-color: #f2f2f2;
+      }
+      .container {
+        background-color: white;
+        padding: 30px;
+        border-radius: 15px;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+      }
+      h2 {
+        margin-bottom: 30px;
+        color: #343a40;
+      }
+      .chart-container {
+        position: relative;
+        height: 400px;
+        width: 100%;
+        margin: 20px 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h2 class="text-center" style="color: #2c3e50; font-size: 2.5em; font-weight: 800; letter-spacing: 1px; text-transform: uppercase; margin: 30px 0;">Segment Analysis & Distribution</h2>
+      {% for table in tables %}
+        {{ table|safe }}
+      {% endfor %}
+
+      <h3 class="mt-5">Cluster Distribution</h3>
+      <div class="chart-container">
+        <canvas id="pieChart"></canvas>
+      </div>
+    </div>
+
+    <script>
+      // Get the data from Flask template
+      const segmentLabels = {{ segment_labels | tojson | safe }};
+      const segmentCounts = {{ segment_counts | tojson | safe }};
+
+      window.onload = function() {
+        const ctx = document.getElementById('pieChart').getContext('2d');
+        new Chart(ctx, {
+          type: 'pie',
+          data: {
+            labels: segmentLabels,
+            datasets: [{
+              label: 'Segment Distribution',
+              data: segmentCounts,
+              backgroundColor: [
+                '#007bff',
+                '#28a745',
+                '#dc3545'
+              ],
+              hoverOffset: 4
+            }]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+              legend: {
+                position: 'bottom'
+              }
+            }
+          }
+        });
+      };
+    </script>
+  </body>
+</html>

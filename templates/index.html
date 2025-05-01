@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Customer Segmentation App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fafafa;
+            padding: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        .upload-box {
+            background-color: white;
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 25px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #3498db;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Customer Segmentation Prediction App</h1>
+    <div class="upload-box">
+        <form method="POST" action="/predict" enctype="multipart/form-data">
+            <input type="file" name="file" required>
+            <button type="submit">Upload & Predict</button>
+        </form>
+    </div>
+
+    {% if predictions %}
+    <h2 style="color: #2c3e50; font-size: 2.5em; font-weight: 800; letter-spacing: 1px; text-transform: uppercase; margin: 30px 0;">Segment Analysis & Distribution</h2>
+    <table>
+        <tr>
+            <th>Customer Name</th>
+            <th>Predicted Segment</th>
+        </tr>
+        {% for name, segment in predictions %}
+        <tr>
+            <td>{{ name }}</td>
+            <td>{{ segment }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    {% endif %}
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
